@@ -5,5 +5,5 @@
 <!-- Vendor Trees -->
   <project path="vendor/xiaomi/gauguin" name="xiaomi-sm7225/android_vendor_xiaomi_gauguin" remote="github" revision="lineage-20" />
 <!-- Kernel Trees -->
-  <project path="kernel/xiaomi/gauguin" name="xiaomi-sm7225/android_kernel_xiaomi_gauguin" remote="github" revision="lineage-20" />
+  <project path="kernel/xiaomi/gauguin" name="https://github.com/Niyush-04/kernel_xiaomi_gauguin_ksu" remote="github" revision="main" />
 </manifest>
