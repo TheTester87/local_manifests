@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <!-- Device Trees -->
-  <project path="device/xiaomi/gauguin" name="TheTester87/device_tree" remote="github" revision="lineage-20" />
+  <project path="device/xiaomi/gauguin" name="DevAdalat/device_xiaomi_gauguin" remote="github" revision="evo-x" />
 <!-- Vendor Trees -->
   <project path="vendor/xiaomi/gauguin" name="xiaomi-sm7225/android_vendor_xiaomi_gauguin" remote="github" revision="lineage-20" />
 <!-- Kernel Trees -->
