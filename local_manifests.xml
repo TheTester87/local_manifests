@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <!-- Device Trees -->
-  <project path="device/xiaomi/gauguin" name="DevAdalat/device_xiaomi_gauguin" remote="github" revision="evo-x" />
+  <project path="device/xiaomi/gauguin" name="TheTester87/device_xiaomi_gauguin" remote="github" revision="evo-x" clone-depth="1" />
 <!-- Vendor Trees -->
-  <project path="vendor/xiaomi/gauguin" name="xiaomi-sm7225/android_vendor_xiaomi_gauguin" remote="github" revision="lineage-20" />
+  <project path="vendor/xiaomi/gauguin" name="Niyush-04/vendor_xiaomi_gauguin" remote="github" revision="main" clone-depth="1" />
 <!-- Kernel Trees -->
-  <project path="kernel/xiaomi/gauguin" name="Niyush-04/kernel_xiaomi_gauguin_ksu" remote="github" revision="main" />
+  <project path="kernel/xiaomi/gauguin" name="xiaomi-sm7225/android_kernel_xiaomi_gauguin" remote="github" revision="lineage-20" clone-depth="1" />
+<!-- Cosmic Clang -->
+  <project path="prebuilts/clang/kernel/linux-x86/clang-cosmic" name="GhostMaster69-dev/cosmic-clang" remote="gitlab" revision="master" clone-depth="1" />
 </manifest>
