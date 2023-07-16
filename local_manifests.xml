@@ -3,7 +3,7 @@
 <!-- Device Trees -->
   <project path="device/xiaomi/gauguin" name="TheTester87/device_xiaomi_gauguin" remote="github" revision="evo-x" clone-depth="1" />
 <!-- Vendor Trees -->
-  <project path="vendor/xiaomi/gauguin" name="Niyush-04/vendor_xiaomi_gauguin" remote="github" revision="main" clone-depth="1" />
+  <project path="vendor/xiaomi/gauguin" name="Niyush-04/vendor-old" remote="github" revision="miui14cn" clone-depth="1" />
 <!-- Kernel Trees -->
   <project path="kernel/xiaomi/gauguin" name="xiaomi-sm7225/android_kernel_xiaomi_gauguin" remote="github" revision="lineage-20" clone-depth="1" />
 <!-- Cosmic Clang -->
